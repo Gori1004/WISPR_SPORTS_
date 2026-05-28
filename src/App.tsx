@@ -12,9 +12,9 @@ const queryClient = new QueryClient();
 
 // Add your universal passwords here
 const VALID_PASSWORDS = [
-  "wispr2026",
-  "teamaccess",
-  "privatepreview",
+  "RjjpgRHmxckVcsoE",
+  "qoCCnHkcrZGUboHD",
+  "iKoTJdQjCPGqzaNR",
 ];
 
 const App = () => {
